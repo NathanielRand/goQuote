@@ -3,7 +3,9 @@
 A simple CLI printing the quote of the day via theysaidso.com API
 
 Coming Soon:
-- Keyword specific quote commands (ex: happy, motivational, inspiration)
+- Return only the quote and author
+- Use flags to return other metadata
+- Use flags for keyword quotes (ex: happy, motivational, inspiration)
 
 ## Installation
 
