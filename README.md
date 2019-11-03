@@ -23,9 +23,13 @@ Coming Soon:
 
     cp quote /usr/local/bin
 
-## Test the executable (outside of current project directory):
+## Test default (outside of current project directory):
 
     quote
+
+## Test keyword (outside of current project directory):
+
+    quote funny
 
 # Limit 10 uses per hour
     
