@@ -5,7 +5,7 @@ A simple CLI printing the quote of the day via theysaidso.com API
 Coming Soon:
 - Return only the quote and author
 - Use flags to return other metadata
-- Use flags for keyword quotes (ex: happy, motivational, inspiration)
+- (completed) Use flags for keyword quotes (ex: happy, inspire, funny, love)
 
 ## Installation
 
@@ -27,9 +27,17 @@ Coming Soon:
 
     quote
 
-## Test keyword (outside of current project directory):
+## Test with keyword (outside of current project directory):
 
     quote funny
+
+## Help
+
+    quote -h
+
+## Version
+
+    quote -v
 
 # Limit 10 uses per hour
     
