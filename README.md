@@ -5,7 +5,7 @@ A simple CLI printing the quote of the day via theysaidso.com API
 Roadmap:
 - (completed) Version flag (-v or --version) to display application version number.
 - (completed) Help flag (-h or --help) to display name, usage, version, author, commands, and global options.
-- (completed) ~~Use flags for keyword quotes (ex: happy, inspire, funny, love)~~
+- (completed) Use flags for keyword quotes (ex: happy, inspire, funny, love)
 - Return only the quote and author
 - Use flags to return other metadata
 
