@@ -1,16 +1,13 @@
 # GoQuote
 
-A command-line app printing the quote of the day via theysaidso.com API
-
+A simple CLI printing the quote of the day via theysaidso.com API
 
 Coming Soon:
-- Client-side UI
-- Email service
-- Text service
+- Keyword specific quote commands (ex: happy, motivational, inspiration)
 
 ## Installation
 
-    go get github.com/NathanielRand/goQuote
+    go get -u github.com/NathanielRand/goQuote
 
 ## Navigate to application folder
 
@@ -24,7 +21,7 @@ Coming Soon:
 
     cp quote /usr/local/bin
 
-Test the executable:
+## Test the executable (outside of current project directory):
 
     quote
 
